@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671330172946",
+    "firebase_url": "https://notifications-e8c95.firebaseio.com",
+    "project_id": "notifications-e8c95",
+    "storage_bucket": "notifications-e8c95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671330172946:android:c518aaf4899ffe5c",
+        "android_client_info": {
+          "package_name": "com.laurapereyra.notifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671330172946-98u6pj6luj5c0cc8147elaqbru074im4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laurapereyra.notifications",
+            "certificate_hash": "3e32ecd8a6acc348ac9048659bf59c2b06f96abe"
+          }
+        },
+        {
+          "client_id": "671330172946-nsh6c8voihjstg0a00dq79fvq05eoui1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB19XM9fJ7WyTocgTwY_MzYMygujhICznQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671330172946-nsh6c8voihjstg0a00dq79fvq05eoui1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
